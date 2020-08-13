@@ -1,5 +1,7 @@
 # ecommerceapp
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/13bc7a75f12e4302a5ae2f6be60cc882)](https://app.codacy.com/manual/EricRootLee/ecomerce-App-With-Rest-Api?utm_source=github.com&utm_medium=referral&utm_content=EricRootLee/ecomerce-App-With-Rest-Api&utm_campaign=Badge_Grade_Dashboard)
+
 A new Flutter project.
 
 ## Getting Started
